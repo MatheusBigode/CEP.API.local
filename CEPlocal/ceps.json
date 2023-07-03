@@ -1,0 +1,25 @@
+{
+    "ceps": [
+        {
+            "codigo":"01234567",
+            "bairro": "Canasvieiras",
+            "cidade": "Florianópolis",         
+            "estado": "SC",
+            "pais": "Brasil"
+        },
+        {
+            "codigo":"42378647",
+            "bairro": "Agronomia",
+            "cidade": "Porto Alegre",
+            "estado": "RS",
+            "pais": "Brasil"
+        },
+        {
+            "codigo":"95767434",
+            "bairro": "Santa Felicidade",
+            "cidade": "Maringá",
+            "estado": "PR",
+            "pais": "Brasil"
+        }
+    ]
+}
